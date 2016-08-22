@@ -3,8 +3,34 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Core", "01. Core", "{F1D3BABC-26CF-4686-A81E-445349B8DF77}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Modules", "02. Modules", "{BD5E3D6C-EA0A-4A32-ABFC-B7EFC0CC3411}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Presentation", "03. Presentation", "{2AF3E61E-3E35-45FC-99B6-F67275A4AD95}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Tests", "04. Tests", "{702E9EBF-3011-44A3-9F0B-AF102FEB0A0B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChangeCurrency", "ChangeCurrency", "{CBFC2419-346A-4BB7-84B7-1FA0473DC9E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business.Operations", "ChangeCurrency.Business.Operations\Business.Operations.csproj", "{FFD07CD3-CAE8-41C0-A9AB-08F0E7D3EDC0}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFD07CD3-CAE8-41C0-A9AB-08F0E7D3EDC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD07CD3-CAE8-41C0-A9AB-08F0E7D3EDC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD07CD3-CAE8-41C0-A9AB-08F0E7D3EDC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD07CD3-CAE8-41C0-A9AB-08F0E7D3EDC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CBFC2419-346A-4BB7-84B7-1FA0473DC9E3} = {BD5E3D6C-EA0A-4A32-ABFC-B7EFC0CC3411}
+		{FFD07CD3-CAE8-41C0-A9AB-08F0E7D3EDC0} = {CBFC2419-346A-4BB7-84B7-1FA0473DC9E3}
 	EndGlobalSection
 EndGlobal
