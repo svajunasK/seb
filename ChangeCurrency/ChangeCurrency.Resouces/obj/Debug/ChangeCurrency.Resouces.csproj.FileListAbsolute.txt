@@ -1,0 +1,5 @@
+C:\Projects\Others\seb\ChangeCurrency\ChangeCurrency.Resouces\bin\Debug\ChangeCurrency.Resouces.dll
+C:\Projects\Others\seb\ChangeCurrency\ChangeCurrency.Resouces\bin\Debug\ChangeCurrency.Resouces.pdb
+C:\Projects\Others\seb\ChangeCurrency\ChangeCurrency.Resouces\obj\Debug\ChangeCurrency.Resouces.csprojResolveAssemblyReference.cache
+C:\Projects\Others\seb\ChangeCurrency\ChangeCurrency.Resouces\obj\Debug\ChangeCurrency.Resouces.dll
+C:\Projects\Others\seb\ChangeCurrency\ChangeCurrency.Resouces\obj\Debug\ChangeCurrency.Resouces.pdb

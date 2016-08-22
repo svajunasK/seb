@@ -1,0 +1,4 @@
+C:\Projects\Others\seb\ChangeCurrency\IocContainer\bin\Debug\IocContainer.dll
+C:\Projects\Others\seb\ChangeCurrency\IocContainer\bin\Debug\IocContainer.pdb
+C:\Projects\Others\seb\ChangeCurrency\IocContainer\obj\Debug\IocContainer.dll
+C:\Projects\Others\seb\ChangeCurrency\IocContainer\obj\Debug\IocContainer.pdb

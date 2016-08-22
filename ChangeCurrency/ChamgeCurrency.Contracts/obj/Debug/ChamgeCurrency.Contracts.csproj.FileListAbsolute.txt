@@ -1,0 +1,5 @@
+C:\Projects\Others\seb\ChangeCurrency\ChamgeCurrency.Contracts\bin\Debug\ChamgeCurrency.Contracts.dll
+C:\Projects\Others\seb\ChangeCurrency\ChamgeCurrency.Contracts\bin\Debug\ChamgeCurrency.Contracts.pdb
+C:\Projects\Others\seb\ChangeCurrency\ChamgeCurrency.Contracts\obj\Debug\ChamgeCurrency.Contracts.csprojResolveAssemblyReference.cache
+C:\Projects\Others\seb\ChangeCurrency\ChamgeCurrency.Contracts\obj\Debug\ChamgeCurrency.Contracts.dll
+C:\Projects\Others\seb\ChangeCurrency\ChamgeCurrency.Contracts\obj\Debug\ChamgeCurrency.Contracts.pdb
