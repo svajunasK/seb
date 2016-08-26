@@ -1,0 +1,9 @@
+C:\Projects\Others\seb\ChangeCurrency\ChangeCurrency.Business.Operations\bin\Debug\ChangeCurrency.Business.Operations.dll
+C:\Projects\Others\seb\ChangeCurrency\ChangeCurrency.Business.Operations\bin\Debug\ChangeCurrency.Business.Operations.pdb
+C:\Projects\Others\seb\ChangeCurrency\ChangeCurrency.Business.Operations\bin\Debug\ChamgeCurrency.Contracts.dll
+C:\Projects\Others\seb\ChangeCurrency\ChangeCurrency.Business.Operations\bin\Debug\CurrencyExchangeRates.Contracts.dll
+C:\Projects\Others\seb\ChangeCurrency\ChangeCurrency.Business.Operations\bin\Debug\ChamgeCurrency.Contracts.pdb
+C:\Projects\Others\seb\ChangeCurrency\ChangeCurrency.Business.Operations\bin\Debug\CurrencyExchangeRates.Contracts.pdb
+C:\Projects\Others\seb\ChangeCurrency\ChangeCurrency.Business.Operations\obj\Debug\CurrencyExchangeRates.Business.csprojResolveAssemblyReference.cache
+C:\Projects\Others\seb\ChangeCurrency\ChangeCurrency.Business.Operations\obj\Debug\ChangeCurrency.Business.Operations.dll
+C:\Projects\Others\seb\ChangeCurrency\ChangeCurrency.Business.Operations\obj\Debug\ChangeCurrency.Business.Operations.pdb

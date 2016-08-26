@@ -1,4 +1,16 @@
 C:\Projects\Others\seb\ChangeCurrency\IocContainer\bin\Debug\IocContainer.dll
 C:\Projects\Others\seb\ChangeCurrency\IocContainer\bin\Debug\IocContainer.pdb
+C:\Projects\Others\seb\ChangeCurrency\IocContainer\bin\Debug\ChamgeCurrency.Contracts.dll
+C:\Projects\Others\seb\ChangeCurrency\IocContainer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Projects\Others\seb\ChangeCurrency\IocContainer\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Projects\Others\seb\ChangeCurrency\IocContainer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Projects\Others\seb\ChangeCurrency\IocContainer\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Projects\Others\seb\ChangeCurrency\IocContainer\bin\Debug\ChamgeCurrency.Contracts.pdb
+C:\Projects\Others\seb\ChangeCurrency\IocContainer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Projects\Others\seb\ChangeCurrency\IocContainer\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Projects\Others\seb\ChangeCurrency\IocContainer\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Projects\Others\seb\ChangeCurrency\IocContainer\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Projects\Others\seb\ChangeCurrency\IocContainer\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Projects\Others\seb\ChangeCurrency\IocContainer\obj\Debug\IocContainer.csprojResolveAssemblyReference.cache
 C:\Projects\Others\seb\ChangeCurrency\IocContainer\obj\Debug\IocContainer.dll
 C:\Projects\Others\seb\ChangeCurrency\IocContainer\obj\Debug\IocContainer.pdb

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ChangeCurrency.Services
+namespace CurrencyExchangeRates.Services
 {
     public class Class1
     {
