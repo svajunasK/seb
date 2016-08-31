@@ -1,0 +1,619 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExchangeRates>
+  <item>
+    <date>2012.01.01</date>
+    <currency>AED</currency>
+    <quantity>10</quantity>
+    <rate>7.1839</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>AFN</currency>
+    <quantity>100</quantity>
+    <rate>5.4747</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>ALL</currency>
+    <quantity>100</quantity>
+    <rate>2.4982</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>AMD</currency>
+    <quantity>1000</quantity>
+    <rate>6.8807</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>ARS</currency>
+    <quantity>10</quantity>
+    <rate>6.1509</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>AUD</currency>
+    <quantity>1</quantity>
+    <rate>2.6947</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>AZN</currency>
+    <quantity>1</quantity>
+    <rate>3.3591</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>BAM</currency>
+    <quantity>1</quantity>
+    <rate>1.7653</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>BDT</currency>
+    <quantity>100</quantity>
+    <rate>3.2759</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>BGN</currency>
+    <quantity>1</quantity>
+    <rate>1.7653</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>BHD</currency>
+    <quantity>1</quantity>
+    <rate>6.9991</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>BYR</currency>
+    <quantity>10000</quantity>
+    <rate>3.1855</rate>
+    <unit>LTL per 10000 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>BOB</currency>
+    <quantity>10</quantity>
+    <rate>3.8187</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>BRL</currency>
+    <quantity>1</quantity>
+    <rate>1.4216</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>CAD</currency>
+    <quantity>1</quantity>
+    <rate>2.6088</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>CHF</currency>
+    <quantity>1</quantity>
+    <rate>2.8302</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>CLP</currency>
+    <quantity>1000</quantity>
+    <rate>5.0779</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>CNY</currency>
+    <quantity>10</quantity>
+    <rate>4.2243</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>COP</currency>
+    <quantity>1000</quantity>
+    <rate>1.3710</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>CZK</currency>
+    <quantity>10</quantity>
+    <rate>1.3397</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>DKK</currency>
+    <quantity>10</quantity>
+    <rate>4.6439</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>DZD</currency>
+    <quantity>100</quantity>
+    <rate>3.5244</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>EGP</currency>
+    <quantity>10</quantity>
+    <rate>4.3840</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>ETB</currency>
+    <quantity>10</quantity>
+    <rate>1.5260</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>EUR</currency>
+    <quantity>1</quantity>
+    <rate>3.4528</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>GBP</currency>
+    <quantity>1</quantity>
+    <rate>4.1310</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>GEL</currency>
+    <quantity>1</quantity>
+    <rate>1.5936</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>GNF</currency>
+    <quantity>10000</quantity>
+    <rate>3.6472</rate>
+    <unit>LTL per 10000 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>HKD</currency>
+    <quantity>10</quantity>
+    <rate>3.3929</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>HRK</currency>
+    <quantity>10</quantity>
+    <rate>4.5841</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>HUF</currency>
+    <quantity>100</quantity>
+    <rate>1.1139</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>IDR</currency>
+    <quantity>10000</quantity>
+    <rate>2.9190</rate>
+    <unit>LTL per 10000 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>YER</currency>
+    <quantity>100</quantity>
+    <rate>1.2111</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>ILS</currency>
+    <quantity>10</quantity>
+    <rate>6.9751</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>INR</currency>
+    <quantity>100</quantity>
+    <rate>5.0028</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>IQD</currency>
+    <quantity>1000</quantity>
+    <rate>2.2606</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>IRR</currency>
+    <quantity>10000</quantity>
+    <rate>2.3961</rate>
+    <unit>LTL per 10000 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>ISK</currency>
+    <quantity>100</quantity>
+    <rate>2.1635</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>JOD</currency>
+    <quantity>1</quantity>
+    <rate>3.7192</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>JPY</currency>
+    <quantity>100</quantity>
+    <rate>3.4347</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>KES</currency>
+    <quantity>100</quantity>
+    <rate>3.1507</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>KGS</currency>
+    <quantity>100</quantity>
+    <rate>5.6519</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>KRW</currency>
+    <quantity>1000</quantity>
+    <rate>2.2963</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>KWD</currency>
+    <quantity>1</quantity>
+    <rate>9.4847</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>KZT</currency>
+    <quantity>100</quantity>
+    <rate>1.8027</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>LBP</currency>
+    <quantity>1000</quantity>
+    <rate>1.7527</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>LKR</currency>
+    <quantity>100</quantity>
+    <rate>2.3172</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>LVL</currency>
+    <quantity>1</quantity>
+    <rate>4.9421</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>MAD</currency>
+    <quantity>10</quantity>
+    <rate>3.1028</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>MDL</currency>
+    <quantity>10</quantity>
+    <rate>2.2829</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>MGA</currency>
+    <quantity>1000</quantity>
+    <rate>1.2171</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>MYR</currency>
+    <quantity>10</quantity>
+    <rate>8.3544</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>MKD</currency>
+    <quantity>100</quantity>
+    <rate>5.59</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>MNT</currency>
+    <quantity>1000</quantity>
+    <rate>1.9226</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>MXN</currency>
+    <quantity>10</quantity>
+    <rate>1.9149</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>MZN</currency>
+    <quantity>100</quantity>
+    <rate>9.8241</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>NOK</currency>
+    <quantity>10</quantity>
+    <rate>4.4324</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>NZD</currency>
+    <quantity>1</quantity>
+    <rate>2.0448</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>PAB</currency>
+    <quantity>1</quantity>
+    <rate>2.6387</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>PEN</currency>
+    <quantity>10</quantity>
+    <rate>9.7985</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>PHP</currency>
+    <quantity>100</quantity>
+    <rate>6.0682</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>PKR</currency>
+    <quantity>100</quantity>
+    <rate>2.9607</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>PLN</currency>
+    <quantity>10</quantity>
+    <rate>7.8506</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>QAR</currency>
+    <quantity>10</quantity>
+    <rate>7.2483</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>RON</currency>
+    <quantity>10</quantity>
+    <rate>8.0585</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>RSD</currency>
+    <quantity>100</quantity>
+    <rate>3.3453</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>RUB</currency>
+    <quantity>100</quantity>
+    <rate>8.3334</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>SAR</currency>
+    <quantity>10</quantity>
+    <rate>7.0364</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>SEK</currency>
+    <quantity>10</quantity>
+    <rate>3.86</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>SGD</currency>
+    <quantity>1</quantity>
+    <rate>2.0440</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>SYP</currency>
+    <quantity>100</quantity>
+    <rate>4.8730</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>THB</currency>
+    <quantity>100</quantity>
+    <rate>8.4332</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>TJS</currency>
+    <quantity>10</quantity>
+    <rate>5.5453</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>TMT</currency>
+    <quantity>10</quantity>
+    <rate>9.2571</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>TND</currency>
+    <quantity>1</quantity>
+    <rate>1.7784</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>TRY</currency>
+    <quantity>1</quantity>
+    <rate>1.3932</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>TWD</currency>
+    <quantity>100</quantity>
+    <rate>8.7132</rate>
+    <unit>LTL per 100 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>TZS</currency>
+    <quantity>1000</quantity>
+    <rate>1.6544</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>UAH</currency>
+    <quantity>10</quantity>
+    <rate>3.3243</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>UYU</currency>
+    <quantity>10</quantity>
+    <rate>1.3260</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>USD</currency>
+    <quantity>1</quantity>
+    <rate>2.6694</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>UZS</currency>
+    <quantity>1000</quantity>
+    <rate>1.4730</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>VEF</currency>
+    <quantity>10</quantity>
+    <rate>6.1443</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>VND</currency>
+    <quantity>10000</quantity>
+    <rate>1.2556</rate>
+    <unit>LTL per 10000 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>XAF</currency>
+    <quantity>1000</quantity>
+    <rate>5.2722</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>XDR</currency>
+    <quantity>1</quantity>
+    <rate>4.1178</rate>
+    <unit>LTL per 1 currency unit</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>XOF</currency>
+    <quantity>1000</quantity>
+    <rate>5.2722</rate>
+    <unit>LTL per 1000 currency units</unit>
+  </item>
+  <item>
+    <date>2012.01.01</date>
+    <currency>ZAR</currency>
+    <quantity>10</quantity>
+    <rate>3.2353</rate>
+    <unit>LTL per 10 currency units</unit>
+  </item>
+</ExchangeRates>

@@ -1,5 +1,4 @@
 C:\Projects\Others\seb\ChangeCurrency\ChangeCurrency.Validation\bin\Debug\ChangeCurrency.Validation.dll
 C:\Projects\Others\seb\ChangeCurrency\ChangeCurrency.Validation\bin\Debug\ChangeCurrency.Validation.pdb
-C:\Projects\Others\seb\ChangeCurrency\ChangeCurrency.Validation\obj\Debug\CurrencyExchangeRates.Validation.csprojResolveAssemblyReference.cache
 C:\Projects\Others\seb\ChangeCurrency\ChangeCurrency.Validation\obj\Debug\ChangeCurrency.Validation.dll
 C:\Projects\Others\seb\ChangeCurrency\ChangeCurrency.Validation\obj\Debug\ChangeCurrency.Validation.pdb

@@ -2,5 +2,6 @@
 {
     public class GetCurrencyExchangeRatesRequest
     {
+        public string Date { get; set; }
     }
 }
