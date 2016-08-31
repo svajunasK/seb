@@ -1,4 +1,6 @@
-﻿/// <remarks/>
+﻿using System;
+
+/// <remarks/>
 [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = true)]
 [System.Xml.Serialization.XmlRootAttribute(Namespace = "", IsNullable = false)]
 public partial class ExchangeRates
@@ -26,7 +28,7 @@ public partial class ExchangeRates
 public partial class ExchangeRatesItem
 {
 
-    private string dateField;
+    private DateTime dateField;
 
     private string currencyField;
 
@@ -37,7 +39,7 @@ public partial class ExchangeRatesItem
     private string unitField;
 
     /// <remarks/>
-    public string date
+    public DateTime date
     {
         get
         {

@@ -5,6 +5,7 @@ using ChangeCurrency.Business.Operations.ExchangeRatesService;
 using ChangeCurrency.Business.Operations.Mappers;
 using CurrencyExchangeRates.Contracts.Request;
 using CurrencyExchangeRates.Contracts.Dto;
+using System.Data.SqlClient;
 
 namespace CurrencyExchangeRates.Business.Operations
 {
@@ -24,7 +25,23 @@ namespace CurrencyExchangeRates.Business.Operations
                 result = serviceResult.ToCurrencyExchangeRatesDtoList().ToList();
 
             }
-            return result;
+            return OrderList(result, request.SortBy, request.SortOrder);
+        }
+
+        private IEnumerable<CurrencyExchangeRatesDto> OrderList(List<CurrencyExchangeRatesDto> listToSort, SortField sortBy, SortOrder sortOrder)
+        {
+            if (listToSort == null || listToSort.Count == 0)
+                return listToSort;
+
+            switch (sortBy)
+            {
+                case SortField.Date:
+                default:
+                    if (sortOrder == SortOrder.Ascending)
+                        return listToSort.OrderBy(_=>_.Date);
+                    else
+                        return listToSort.OrderByDescending(_=>_.Date);
+            }
         }
     }
 }

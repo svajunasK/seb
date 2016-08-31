@@ -44,6 +44,7 @@
     <Compile Include="Dto\GetExchangeRatesByDateResponseDto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Request\GetCurrencyExchangeRatesRequest.cs" />
+    <Compile Include="Request\SortField.cs" />
     <Compile Include="Service\ICurrencyExchangeRatesService.cs" />
   </ItemGroup>
   <ItemGroup>

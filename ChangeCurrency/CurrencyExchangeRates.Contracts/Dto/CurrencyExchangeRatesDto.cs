@@ -1,8 +1,10 @@
-﻿namespace CurrencyExchangeRates.Contracts.Dto
+﻿using System;
+
+namespace CurrencyExchangeRates.Contracts.Dto
 {
     public class CurrencyExchangeRatesDto
     {
-        public string Date { get; set; }
+        public DateTime Date { get; set; }
 
         public string Currency { get; set; }
 
